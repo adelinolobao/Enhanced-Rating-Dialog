@@ -1,4 +1,4 @@
-package com.github.adelinolobao.enhanced_rating_dialog;
+package com.github.adelinolobao.enhanced_rating_dialog_demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
