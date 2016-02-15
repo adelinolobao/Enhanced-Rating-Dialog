@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Enhanced-Rating-Dialog</string>
+
+    <string name="dialog_rate_message">If you love our app, please take a moment to rate it</string>
+    <string name="dialog_rate_positive_button_message">OK</string>
+    <string name="dialog_rate_neutral_button_message">Not Now</string>
+    <string name="dialog_rate_negative_button_message">Never</string>
 </resources>
