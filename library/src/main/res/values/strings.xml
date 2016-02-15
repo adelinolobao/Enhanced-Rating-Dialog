@@ -5,4 +5,14 @@
     <string name="dialog_rate_positive_button_message">OK</string>
     <string name="dialog_rate_neutral_button_message">Not Now</string>
     <string name="dialog_rate_negative_button_message">Never</string>
+
+    <!-- RATING VALUES -->
+    <string name="dialog_rate_interval" translatable="false">5</string>
+    <string name="dialog_rate_interval_reset" translatable="false">10</string>
+
+    <string name="dialog_rate_store_limit" translatable="false">3</string>
+
+    <!-- RATING HELPER -->
+    <string name="dialog_rate_email_support" translatable="false">test@test.com</string>
+    <string name="dialog_rate_email_subject">Feedback</string>
 </resources>
